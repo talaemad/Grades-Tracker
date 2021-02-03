@@ -1,0 +1,24 @@
+div{
+    display: inline-block;
+    width: 500px;
+}
+body{
+    background-image: url('../school.jpg');
+    background-size: cover;
+}
+
+
+#form{
+    height: 250px;
+    background-color: rgba(137, 43, 226, 0.623);
+    padding: 10px;
+    margin-left: 100px;
+    margin-top: -50px;
+}
+#forTable{
+    height: 250px;
+    background-color: rgba(137, 43, 226, 0.623);
+    padding: 10px;
+    margin-left: 50px;
+    margin-top: 150px;
+}
